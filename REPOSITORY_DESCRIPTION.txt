@@ -1,0 +1,1 @@
+Reconstructed implementation scaffold for a multimodal fruit-disease detection workflow using image, satellite and climate inputs. Not the original experimental code; not validated as the source of the manuscript's reported results.

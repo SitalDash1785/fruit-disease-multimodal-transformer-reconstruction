@@ -1,0 +1,3 @@
+Suggested manuscript wording (use only if consistent with the journal's requirements):
+
+The original executable scripts used to generate the experimental results were not retained and are currently unavailable. A separately developed reconstruction scaffold is provided at [insert the verified repository URL]. This package is intended to document and support an independent implementation of the described workflow; it is not the original experimental source code and has not been verified as the source of the results reported in this manuscript. Placeholder settings must be replaced with verified study details, and the implementation must be validated on the study data before it is used to reproduce or extend the reported experiments.

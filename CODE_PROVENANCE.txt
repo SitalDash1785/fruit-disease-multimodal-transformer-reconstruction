@@ -1,0 +1,6 @@
+Original experimental source code: unavailable/not retained.
+Original deep-learning framework and software versions: unknown/not recorded.
+This repository: newly written reconstruction scaffold.
+ResNet-18, PyTorch, GELU and feed-forward dimension 1024 are reconstruction defaults, not verified original settings.
+Synthetic smoke test outputs are not manuscript results.
+Do not claim that this package generated the previously reported experimental metrics.
